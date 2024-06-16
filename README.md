@@ -17,12 +17,8 @@ Ensure you have Python and Qiskit 0.37.2 installed on your Linux machine.
 Usage and Compilation:
 
 1. Open Anaconda Prompt.
-2. Navigate to the project directory:
-   cd path/to/quantum_project
-3. Launch Jupyter Notebook:
-   jupyter notebook
-4. This will open Jupyter Notebook in your default web browser.
-5. Navigate to the notebook file QC_FinalProject.ipynb and open it.
-6. Follow the instructions in the notebook to run the code.
+2. This will open Jupyter Notebook in your default web browser.
+3. Open new notebook file open it.
+4. Follow the instructions in the notebook to run the code.
 
 That's it! You should now be able to compile and run the code on your Linux machine using Anaconda Prompt to open Jupyter Notebook.
